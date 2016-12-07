@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					C53C85261DF7FE12001515B6 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = HYH5K2J96C;
 						ProvisioningStyle = Automatic;
 					};
 					C53C853A1DF7FE14001515B6 = {
@@ -412,7 +413,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = HYH5K2J96C;
 				INFOPLIST_FILE = "Silly Song/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ashishrsai.Silly-Song";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -424,7 +427,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = HYH5K2J96C;
 				INFOPLIST_FILE = "Silly Song/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ashishrsai.Silly-Song";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -505,6 +510,7 @@
 				C53C85511DF7FE14001515B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C53C85521DF7FE14001515B6 /* Build configuration list for PBXNativeTarget "Silly SongTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +519,7 @@
 				C53C85541DF7FE14001515B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C53C85551DF7FE14001515B6 /* Build configuration list for PBXNativeTarget "Silly SongUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +528,7 @@
 				C53C85571DF7FE14001515B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
